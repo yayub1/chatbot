@@ -1,5 +1,7 @@
 import { NextResponse } from 'next/server'
+<<<<<<< Tabnine <<<<<<<
 import type { NextRequest } from 'next/server'
+>>>>>>> Tabnine >>>>>>>// {"conversationId":"fbf09297-9077-4db1-9103-e728064a1ef0","source":"instruct"}
 import { auth } from './lib/firebase'
 
 export async function middleware(request: NextRequest) {
